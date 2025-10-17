@@ -1,7 +1,6 @@
-package com.salma.tpp.server;
+package com.adc.tpp.server;
 
-import com.salma.tpp.service.StudentWebService;
-import org.springframework.boot.autoconfigure.integration.IntegrationProperties;
+import com.adc.tpp.service.StudentWebService;
 import jakarta.xml.ws.Endpoint;
 
 public class ServerSOAP {

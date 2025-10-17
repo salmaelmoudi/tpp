@@ -1,4 +1,4 @@
-package com.salma.tpp;
+package com.adc.tpp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

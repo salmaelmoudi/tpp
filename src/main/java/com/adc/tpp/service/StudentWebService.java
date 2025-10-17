@@ -1,7 +1,7 @@
-package com.salma.tpp.service;
+package com.adc.tpp.service;
 
-import com.salma.tpp.enums.Genre;
-import com.salma.tpp.models.Student;
+import com.adc.tpp.enums.Genre;
+import com.adc.tpp.models.Student;
 import jakarta.jws.WebMethod;
 import jakarta.jws.WebService;
 
